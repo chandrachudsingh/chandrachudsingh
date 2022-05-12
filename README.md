@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandrachudsingh
 - 👀 I’m interested in Coding and learning new things
-- 🌱 I’m currently learning Machine Learning and Data Science
+- 🌱 I’m currently MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chandrachudsingh81@gmail.com
 
